@@ -13,4 +13,4 @@ This is a state of art quantum simulator-based solution that identifies the prod
 * Need customized Quantum Computing solutions? Get in touch!
 
 ## Amazon Marketplace Link
-The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-bo6f4ac43blwg)
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-lsp5wqz77d2qo?qid=1611048362907&sr=0-9&ref_=srh_res_product_title)
